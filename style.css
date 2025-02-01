@@ -56,7 +56,7 @@ header h1 {
 .heart-animation {
     width: 100px;
     height: 100px;
-    background: url('https://iili.io/2Z1BUsn.jpg') no-repeat center center;
+    background: url('heart.png') no-repeat center center;
     background-size: contain;
     animation: float 3s ease-in-out infinite;
 }
